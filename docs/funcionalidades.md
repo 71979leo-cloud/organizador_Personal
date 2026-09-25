@@ -7,3 +7,4 @@ El sistema contará con el siguiente conjunto de capacidades clave para la gesti
 - Edición y actualización de información de tareas.
 - Cambio de estado de tareas a completadas.
 - Creación y almacenamiento de notas personales.
+- Creacion y almacenamiento de proyectos escolares.
