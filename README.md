@@ -42,3 +42,16 @@ Profesor: Ing. Alejandro Montes
 Institución: Universidad de León
 
 Matricula Alumno: 71979
+
+# Cambios
+Creación inicial de la aplicación.
+Implementación del registro de tareas.
+Implementación de consulta de tareas.
+Implementación de modificación de tareas.
+Implementación de tareas terminadas.
+Implementación del registro de notas.
+Configuración de las dependencias Requests y python-dotenv.
+Configuración del proyecto para trabajar con Git y GitHub.
+Creación del archivo .env para las variables de entorno.
+Creación del archivo recomendaciones.md con recomendaciones para el 
+uso y mantenimiento del proyecto.
